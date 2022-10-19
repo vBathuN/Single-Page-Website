@@ -194,7 +194,7 @@ section .work-container {
 }
 
 .testimonials-section .says .company-name {
-  margin-top: 0;
+  margin-top: 0; margin-left: 48px;
   color: #ff4d4d;
 }
 
