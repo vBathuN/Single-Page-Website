@@ -189,7 +189,7 @@ section .work-container {
 .testimonials-section .says h3 {
   margin-top: 36px;
   font-size: 24px;
-  margin-left: 24px;
+  margin-left: 84px;
   color: #ff4d4d;
 }
 
@@ -208,7 +208,7 @@ section .work-container {
   opacity: 0.5;
   position: absolute;
   top: 72px;
-  left: 95px;
+  left: 35px;
 }
 
 /* Contact Section */
